@@ -12,10 +12,6 @@ same in each case, which is to compute that signal exactly on a small anchor, fi
 a cheap surrogate there, and decide from the surrogate rather than paying for the
 full measurement.
 
-### Publication
-
-**[Approximating Gradient-Based Influence for Scalable Instruction Data Selection](https://doi.org/10.1145/3746252.3760808)** — Mohammad GharehHasanloo, Yueting Chen, Nick Koudas, Xiaohui Yu. *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM '25)*, pp. 4733–4737.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadhasanloo/)
 
 ### Tech stack
