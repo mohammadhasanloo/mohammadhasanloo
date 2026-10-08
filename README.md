@@ -14,41 +14,32 @@ full measurement.
 
 ### Publication
 
-**[Approximating Gradient-Based Influence for Scalable Instruction Data
-Selection](https://doi.org/10.1145/3746252.3760808)** — Mohammad GharehHasanloo,
-Yueting Chen, Nick Koudas, Xiaohui Yu. *Proceedings of the 34th ACM
-International Conference on Information and Knowledge Management (CIKM '25)*,
-pp. 4733–4737.
+**[Approximating Gradient-Based Influence for Scalable Instruction Data Selection](https://doi.org/10.1145/3746252.3760808)** — Mohammad GharehHasanloo, Yueting Chen, Nick Koudas, Xiaohui Yu. *Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM '25)*, pp. 4733–4737.
 
-### Selected projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadhasanloo/)
 
-Coursework from my computer engineering degree at the University of Tehran. Each
-repository has a README covering how to run it and what the run produced.
+### Tech stack
 
-- **[cmm-compiler](https://github.com/mohammadhasanloo/cmm-compiler)** — a
-  compiler front end for C--, a small imperative language with structs, function
-  pointers and getter/setter members. Lexing and parsing through name analysis
-  and type checking, with errors reported once rather than cascading.
-- **[xv6-labs](https://github.com/mohammadhasanloo/xv6-labs)** — five sets of
-  changes to the xv6 teaching kernel: console editing, new system calls, a
-  multilevel feedback scheduler, semaphores, and page protection.
-- **[cpp-projects](https://github.com/mohammadhasanloo/cpp-projects)** — seven
-  programs, among them a music service with two front ends, one of which is an
-  HTTP server written from sockets up.
-- **[transfer-learning-limits](https://github.com/mohammadhasanloo/transfer-learning-limits)**
-  — what a pretrained backbone is actually worth, measured twice: classifying
-  satellite patches, and counting objects a detector was never trained to find.
-- **[alphabet-mlp-ablation](https://github.com/mohammadhasanloo/alphabet-mlp-ablation)**
-  — which training choices actually move a handwritten-letter classifier,
-  measured one choice at a time against a fixed reference.
-- **[enroll-assist](https://github.com/mohammadhasanloo/enroll-assist)** — a
-  course enrollment service, and the test suite that holds its rules in place.
-
-The rest of the repositories cover processors and digital design in Verilog and
-SystemVerilog, networking and operating systems in C and C++, and neural network
-coursework in Python.
-
-### Elsewhere
-
-[LinkedIn](https://www.linkedin.com/in/mohammadhasanloo/) ·
-[Google Scholar](https://scholar.google.com/citations?user=GdVLKi8AAAAJ)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-B2B7F8?style=for-the-badge&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
